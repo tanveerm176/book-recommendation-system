@@ -3,11 +3,11 @@
 
 ## Recommendation System Results using K Nearest Neighbors
 ***
-### Top 20 Most Frequent Book in Dataset
+### Book Recommendation System Results
 ![](./images/book-recommender-results.png.png)
 
 ***
-### Elbow Curve to Determine K value
+### Elbow Curve to Determine Optimal K value
 ![](./images/elbow_curve.png)
 
 ***
@@ -44,5 +44,3 @@
 ***
 ### Relationship between Pages and Ratings
 ![](./images/pages_vs_ratings.png)
-
-## Conclusion
